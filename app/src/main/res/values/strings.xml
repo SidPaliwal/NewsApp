@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewsRetro</string>
+    <string name="title">TITLE</string>
+    <string name="author">Author</string>
+    <string name="select_category">CHOOSE CATEGORY</string>
+    <string-array name="categories">
+        <item>General</item>
+        <item>Entertainment</item>
+        <item>Health</item>
+        <item>Business</item>
+        <item>Science</item>
+        <item>Sports</item>
+        <item>Technology</item>
+    </string-array>
+</resources>

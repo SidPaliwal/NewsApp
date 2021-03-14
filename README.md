@@ -19,3 +19,12 @@ Created an app to retrieve all the latest news from the internet
 * Handling network operations.
 * Updating information regularly.
 * Creating a good UI for users.
+
+## API USED
+
+*NEWS API - https://newsapi.org/
+
+## EXTERNAL LIBRARIES USED
+
+* RETROFIT - For netwrking calls
+* GLIDE - For loading images
